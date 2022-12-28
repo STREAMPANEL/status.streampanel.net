@@ -17,14 +17,6 @@ sites:
     url: $ENDPOINT_TEAMSPEAK
   - name: Safeguard / Webradio & Webhosting 
     url: $ENDPOINT_SAFEGUARD
-  - name: SP_Monitoring / Frankfur
-    url: $ENDPOINT_MONITORING_FRANKFUR
-  - name: SP_Monitoring / Warscha
-    url: $ENDPOINT_MONITORING_WARSCHA
-  - name: SP_Monitoring / Londo
-    url: $ENDPOINT_MONITORING_LONDO
-  - name: SP_Monitoring / Straßbur
-    url: $ENDPOINT_MONITORING_STRASSBUR
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
