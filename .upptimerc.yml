@@ -20,15 +20,21 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  scripts:
-    - src: https://raw.githubusercontent.com/streampanel/status.streampanel.net/master/assets/privacy.
+  
+  # Custom HEAD-Section
+  customHeadHtml: "
+    <script>var _mtm = window._mtm = window._mtm || [];
+    _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://pw.streampanel.net/js/container_KVNJAR2p.js'; s.parentNode.insertBefore(g,s);</script>
+    "
     
   # CSS Styles
   css: '
-  a {
-    text-decoration: none;
-  }
-  '
+   a {
+   	text-decoration: none;
+    }
+    '
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org) | [Privacy](https://www.streampanel.net/kontakt/datenschutz/) | [Imprint](https://www.streampanel.net/kontakt/impressum/)
