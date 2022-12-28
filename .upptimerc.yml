@@ -20,10 +20,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  #scripts:
-  #  - src: https://raw.githubusercontent.com/streampanel/status.streampanel.net/master/assets/privacy.js
-  i18n:
-    footer: [Privacy](https://www.streampanel.net/kontakt/datenschutz/) - [Imprint](https://www.streampanel.net/kontakt/impressum/), Powered by [Upptime](https://upptime.js.org)
+  scripts:
+    - src: https://raw.githubusercontent.com/streampanel/status.streampanel.net/master/assets/privacy.js
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org), [Privacy](https://www.streampanel.net/kontakt/datenschutz/) - [Imprint](https://www.streampanel.net/kontakt/impressum/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
