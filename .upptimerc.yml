@@ -18,13 +18,13 @@ sites:
   - name: Safeguard / Webradio & Webhosting 
     url: $ENDPOINT_SAFEGUARD
   - name: SP_Monitoring / Frankfurt 
-    url: $ENDPOINT_MONITORING_FRANKFURT
+    url: $ENDPOINT_MONITORING_FRANKFUR
   - name: SP_Monitoring / Warschau 
-    url: $ENDPOINT_MONITORING_WARSCHAU
+    url: $ENDPOINT_MONITORING_WARSCHA
   - name: SP_Monitoring / London 
-    url: $ENDPOINT_MONITORING_LONDON
+    url: $ENDPOINT_MONITORING_LONDO
   - name: SP_Monitoring / Straßburg 
-    url: $ENDPOINT_MONITORING_STRASSBURG
+    url: $ENDPOINT_MONITORING_STRASSBUR
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
