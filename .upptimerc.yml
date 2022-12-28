@@ -7,6 +7,24 @@ sites:
     url: https://www.streampanel.net
   - name: Kundencenter
     url: https://login.streampanel.net
+  - name: Webhosting 
+    url: $ENDPOINT_WEBHOSTING
+  - name: Centova Cast / Dedicated 
+    url: $ENDPOINT_CENTOVA_DEFAULT
+  - name: Centova Cast / Cloud 
+    url: $ENDPOINT_CENTOVA_CLOUD
+  - name: Teamspeak 3 
+    url: $ENDPOINT_TEAMSPEAK
+  - name: Safeguard / Webradio & Webhosting 
+    url: $ENDPOINT_SAFEGUARD
+  - name: SP: Monitoring / Frankfurt 
+    url: $ENDPOINT_MONITORING_FRANKFURT
+  - name: SP: Monitoring / Warschau 
+    url: $ENDPOINT_MONITORING_WARSCHAU
+  - name: SP: Monitoring / London 
+    url: $ENDPOINT_MONITORING_LONDON
+  - name: SP: Monitoring / Straßburg 
+    url: $ENDPOINT_MONITORING_STRASSBURG
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +34,7 @@ status-website:
   logoUrl: https://cassets.streampanel.cloud/logo/round/svg/black-white.svg
   name: STREAMPANEL
   introTitle: "**STREAMPANEL Status**"
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Diese Statusseite gibt einige Bereiche in Echtzeit aus. In dringenden Fällen ist ein [Supportticket](https://www.streampanel.net/kontakt/) immer der schnellste Weg zur Proplemlösung.
   navbar:
     - title: Status
       href: /
