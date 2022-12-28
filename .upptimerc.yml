@@ -17,13 +17,13 @@ sites:
     url: $ENDPOINT_TEAMSPEAK
   - name: Safeguard / Webradio & Webhosting 
     url: $ENDPOINT_SAFEGUARD
-  - name: SP: Monitoring / Frankfurt 
+  - name: SP_Monitoring / Frankfurt 
     url: $ENDPOINT_MONITORING_FRANKFURT
-  - name: SP: Monitoring / Warschau 
+  - name: SP_Monitoring / Warschau 
     url: $ENDPOINT_MONITORING_WARSCHAU
-  - name: SP: Monitoring / London 
+  - name: SP_Monitoring / London 
     url: $ENDPOINT_MONITORING_LONDON
-  - name: SP: Monitoring / Straßburg 
+  - name: SP_Monitoring / Straßburg 
     url: $ENDPOINT_MONITORING_STRASSBURG
 
 status-website:
