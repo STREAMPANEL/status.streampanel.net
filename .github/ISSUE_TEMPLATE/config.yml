@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Feature requests and ideas
-    url: https://github.com/upptime/upptime/discussions/new?category=ideas
-    about: Suggest an idea for this project
-  - name: Questions
-    url: https://github.com/upptime/upptime/discussions/new?category=q-a
-    about: Please ask and answer questions here
+  - name: Direct Contact
+    url: https://login.streampanel.net/submitticket.php?step=2&deptid=2&language=english
+    about: Optimally, always create a support ticket. This is the fastest way to solve the problem!
+  - name: Direkter Kontakt
+    url: https://login.streampanel.net/submitticket.php?step=2&deptid=2&language=german
+    about: Im Optimalfall erstellen Sie immer ein Supportticket. Dies ist der schnellste Weg zur Problemlösung!
