@@ -42,7 +42,7 @@ status-website:
   logoUrl: https://cassets.streampanel.cloud/logo/round/svg/black-white.svg
   name: STREAMPANEL
   introTitle: "**STREAMPANEL Status**"
-  introMessage: Diese Statusseite gibt einige Bereiche in Echtzeit aus. In dringenden Fällen ist ein [Supportticket](https://www.streampanel.net/kontakt/) immer der schnellste Weg zur Proplemlösung.
+  introMessage: Diese Statusseite gibt einige Bereiche in Echtzeit aus. In dringenden Fällen ist ein [Supportticket](https://www.streampanel.net/kontakt/) immer der schnellste Weg zur Problemlösung. Datenerfassung seid 29.12.2022
   navbar:
     - title: Status
       href: /
