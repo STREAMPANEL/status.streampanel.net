@@ -4,18 +4,20 @@
     "url": "https://www.streampanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.streampanel.net.ico",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 951,
-    "timeDay": 958,
+    "timeDay": 910,
     "timeWeek": 884,
     "timeMonth": 1214,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-08": 0
+    }
   },
   {
     "name": "Kundencenter",
