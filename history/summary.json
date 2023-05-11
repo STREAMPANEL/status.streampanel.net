@@ -98,19 +98,19 @@
     "url": "$ENDPOINT_TEAMSPEAK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 439,
-    "timeDay": 1411,
-    "timeWeek": 667,
-    "timeMonth": 504,
+    "timeDay": 1111,
+    "timeWeek": 650,
+    "timeMonth": 505,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2023-05-11": 0
+      "2023-05-11": 24
     }
   },
   {
