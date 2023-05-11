@@ -98,18 +98,20 @@
     "url": "$ENDPOINT_TEAMSPEAK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 467,
-    "timeWeek": 426,
-    "timeMonth": 443,
-    "timeYear": 425,
-    "dailyMinutesDown": {}
+    "time": 439,
+    "timeDay": 1411,
+    "timeWeek": 667,
+    "timeMonth": 504,
+    "timeYear": 439,
+    "dailyMinutesDown": {
+      "2023-05-11": 0
+    }
   },
   {
     "name": "Safeguard / Webradio & Webhosting",
