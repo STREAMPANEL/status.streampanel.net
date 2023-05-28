@@ -80,9 +80,9 @@
     "url": "$ENDPOINT_CENTOVA_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 646,
     "timeMonth": 660,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "Teamspeak 3",
