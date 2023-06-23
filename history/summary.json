@@ -140,10 +140,10 @@
     "url": "$ENDPOINT_MONITORING_FRANKFURT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sp-monitoring-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
@@ -151,17 +151,19 @@
     "timeWeek": 391,
     "timeMonth": 370,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-23": 1
+    }
   },
   {
     "name": "SP_Monitoring / Warschau",
     "url": "$ENDPOINT_MONITORING_WARSCHAU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sp-monitoring-warschau",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 470,
@@ -169,16 +171,18 @@
     "timeWeek": 459,
     "timeMonth": 436,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-23": 1
+    }
   },
   {
     "name": "SP_Monitoring / London",
     "url": "$ENDPOINT_MONITORING_LONDON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sp-monitoring-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +191,9 @@
     "timeWeek": 365,
     "timeMonth": 346,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-23": 0
+    }
   },
   {
     "name": "SP_Monitoring / Straßburg",
