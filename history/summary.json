@@ -4,9 +4,9 @@
     "url": "https://www.streampanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.streampanel.net.ico",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "98.59%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 585,
     "timeYear": 868,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-07-06": 20,
       "2023-06-20": 20
     }
