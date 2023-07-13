@@ -12,7 +12,7 @@
     "uptimeYear": "99.91%",
     "time": 847,
     "timeDay": 561,
-    "timeWeek": 494,
+    "timeWeek": 503,
     "timeMonth": 538,
     "timeYear": 847,
     "dailyMinutesDown": {
@@ -26,9 +26,9 @@
     "url": "https://login.streampanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/login.streampanel.net.ico",
     "slug": "kundencenter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 1315,
     "timeYear": 1427,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-02-11": 21
     }
   },
