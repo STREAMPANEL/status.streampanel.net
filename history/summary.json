@@ -144,10 +144,10 @@
     "url": "$ENDPOINT_MONITORING_FRANKFURT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sp-monitoring-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
@@ -155,7 +155,9 @@
     "timeWeek": 388,
     "timeMonth": 405,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "SP_Monitoring / Warschau",
