@@ -21,7 +21,7 @@ sites:
     url: $ENDPOINT_MONITORING_FRANKFURT
     expectedStatusCodes:
       - 403
-  - name: SP_Monitoring / Warschau
+  - name: SP: Monitoring / Warschau
     url: $ENDPOINT_MONITORING_WARSCHAU
     expectedStatusCodes:
       - 403
