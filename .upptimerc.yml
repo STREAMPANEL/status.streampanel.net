@@ -43,6 +43,8 @@ sites:
     url: $ENDPOINT_MONITORING_STRASSBURG
     expectedStatusCodes:
       - 403
+  - name: SPCast / Loadbalancer
+    url: https://loadbalancer.sp.radio.fm/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
