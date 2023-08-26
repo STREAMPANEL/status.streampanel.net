@@ -151,7 +151,7 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.81%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.90%",
     "time": 691,
@@ -169,9 +169,9 @@
     "url": "$ENDPOINT_CENTOVA_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -181,6 +181,7 @@
     "timeMonth": 698,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2023-08-26": 0,
       "2023-05-28": 28
     }
   },
