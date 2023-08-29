@@ -1,7 +1,7 @@
 url: $ENDPOINT_MONITORING_FRANKFURT
 status: up
 code: 403
-responseTime: 532
-lastUpdated: 2023-08-28T23:05:48.841Z
+responseTime: 432
+lastUpdated: 2023-08-29T23:05:41.992Z
 startTime: 2023-08-18T19:43:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
