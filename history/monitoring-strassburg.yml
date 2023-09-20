@@ -1,7 +1,7 @@
 url: $ENDPOINT_MONITORING_STRASSBURG
 status: up
 code: 403
-responseTime: 424
-lastUpdated: 2023-09-19T23:05:23.250Z
+responseTime: 300
+lastUpdated: 2023-09-20T23:05:22.426Z
 startTime: 2023-08-18T19:43:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
