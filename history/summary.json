@@ -4,18 +4,20 @@
     "url": "https://www.streampanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.streampanel.net.ico",
     "slug": "webseite-www-streampanel-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 94,
-    "timeWeek": 174,
-    "timeMonth": 156,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 277,
+    "timeWeek": 210,
+    "timeMonth": 166,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2023-10-02": 1
+    }
   },
   {
     "name": "Webseite / www.spcast.eu",
