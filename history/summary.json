@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spradio.eu.ico",
     "slug": "webseite-www-spradio-eu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 354,
     "timeWeek": 270,
     "timeMonth": 293,
     "timeYear": 466,
-    "dailyMinutesDown": {
-      "2023-10-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webseite / www.webradiotop100.de",
@@ -152,9 +150,9 @@
     "url": "$ENDPOINT_CENTOVA_DEFAULT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-dedicated",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "97.76%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
@@ -164,6 +162,7 @@
     "timeMonth": 651,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2023-10-14": 0,
       "2023-10-13": 32,
       "2023-08-19": 322,
       "2023-02-12": 24
@@ -308,7 +307,7 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "80.67%",
+    "uptimeDay": "96.24%",
     "uptimeWeek": "96.13%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "98.99%",
