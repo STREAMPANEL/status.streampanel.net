@@ -27,20 +27,20 @@ sites:
     url: $ENDPOINT_TEAMSPEAK
   - name: Safeguard / Webradio & Webhosting 
     url: $ENDPOINT_SAFEGUARD
-  - name: Monitoring / Frankfurt
-    url: $ENDPOINT_MONITORING_FRANKFURT
+  - name: Monitoring / Hilsboro
+    url: $ENDPOINT_MONITORING_HILSBORO_USA
     expectedStatusCodes:
       - 403
-  - name: Monitoring / Warschau
-    url: $ENDPOINT_MONITORING_WARSCHAU
+  - name: Monitoring / Helsinki 
+    url: $ENDPOINT_MONITORING_HELSINKI_EU
     expectedStatusCodes:
       - 403
-  - name: Monitoring / London
-    url: $ENDPOINT_MONITORING_LONDON
+  - name: Monitoring / Falkenstein
+    url: $ENDPOINT_MONITORING_FALKENSTEIN_EU
     expectedStatusCodes:
       - 403
-  - name: Monitoring / Straßburg
-    url: $ENDPOINT_MONITORING_STRASSBURG
+  - name: Monitoring / Nürnberg
+    url: $ENDPOINT_MONITORING_NUERNBERG_EU
     expectedStatusCodes:
       - 403
   - name: SPCast / Loadbalancer
@@ -66,7 +66,7 @@ status-website:
     <script>var _mtm = window._mtm = window._mtm || [];
     _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='https://pw.streampanel.net/js/container_KVNJAR2p.js'; s.parentNode.insertBefore(g,s);</script>
+    g.async=true; g.src='https://pw.streampanel.net/js/container_KVNJAR2p_rewrite.js'; s.parentNode.insertBefore(g,s);</script>
     "
     
   # CSS Styles
@@ -77,7 +77,7 @@ status-website:
     '
 
 i18n:
-  footer: Powered by [Upptime](https://upptime.js.org) | [Datenschutz](https://www.streampanel.net/kontakt/datenschutz/) | [Impressum](https://www.streampanel.net/kontakt/impressum/)
+  footer: Powered by [Upptime](https://upptime.js.org) | [Datenschutz](https://www.streampanel.net/kontakt/datenschutz/) | [Impressum](https://www.streampanel.net/kontakt/impressum/) | [Webradio Hosting](https://www.spcast.eu/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
