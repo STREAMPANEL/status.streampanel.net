@@ -237,9 +237,9 @@
     "url": "$ENDPOINT_MONITORING_FRANKFURT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -248,7 +248,9 @@
     "timeWeek": 401,
     "timeMonth": 382,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   },
   {
     "name": "Monitoring / Warschau",
@@ -273,9 +275,9 @@
     "url": "$ENDPOINT_MONITORING_LONDON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -284,16 +286,18 @@
     "timeWeek": 368,
     "timeMonth": 343,
     "timeYear": 363,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   },
   {
     "name": "Monitoring / Straßburg",
     "url": "$ENDPOINT_MONITORING_STRASSBURG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-strassburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -302,7 +306,9 @@
     "timeWeek": 386,
     "timeMonth": 372,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   },
   {
     "name": "SPCast / Loadbalancer",
@@ -310,11 +316,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 477,
     "timeDay": 431,
     "timeWeek": 447,
