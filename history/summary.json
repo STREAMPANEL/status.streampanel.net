@@ -65,9 +65,9 @@
     "url": "https://www.webradiotop100.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.webradiotop100.de.ico",
     "slug": "webseite-www-webradiotop100-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 3003,
     "timeMonth": 2849,
     "timeYear": 2457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-12": 0
+    }
   },
   {
     "name": "Webseite / www.shoutcast-tools.de",
