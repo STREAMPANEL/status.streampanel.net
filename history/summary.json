@@ -6,9 +6,9 @@
     "slug": "webseite-www-streampanel-net",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
     "timeDay": 2492,
@@ -16,7 +16,6 @@
     "timeMonth": 404,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-12-17": 10,
       "2023-10-02": 11
     }
   },
@@ -319,9 +318,9 @@
     "url": "https://loadbalancer.sp.radio.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
@@ -331,6 +330,7 @@
     "timeMonth": 413,
     "timeYear": 459,
     "dailyMinutesDown": {
+      "2023-12-17": 0,
       "2023-10-13": 390,
       "2023-10-02": 79,
       "2023-09-29": 24,
