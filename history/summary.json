@@ -125,18 +125,16 @@
     "slug": "kundencenter-login-streampanel-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1373,
     "timeDay": 1810,
     "timeWeek": 1753,
     "timeMonth": 1664,
     "timeYear": 1373,
-    "dailyMinutesDown": {
-      "2024-01-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webhosting",
@@ -325,10 +323,10 @@
     "url": "https://loadbalancer.sp.radio.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.31%",
     "time": 506,
