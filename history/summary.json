@@ -65,10 +65,10 @@
     "url": "https://www.webradiotop100.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.webradiotop100.de.ico",
     "slug": "webseite-www-webradiotop100-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2567,
@@ -77,6 +77,7 @@
     "timeMonth": 3065,
     "timeYear": 2567,
     "dailyMinutesDown": {
+      "2024-01-05": 2,
       "2023-12-23": 16
     }
   },
@@ -85,10 +86,10 @@
     "url": "https://www.shoutcast-tools.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.de.ico",
     "slug": "webseite-www-shoutcast-tools-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1672,
@@ -96,17 +97,19 @@
     "timeWeek": 1795,
     "timeMonth": 1668,
     "timeYear": 1672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 2
+    }
   },
   {
     "name": "Webseite / www.shoutcast-tools.com",
     "url": "https://www.shoutcast-tools.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.com.ico",
     "slug": "webseite-www-shoutcast-tools-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2615,
@@ -114,7 +117,9 @@
     "timeWeek": 1673,
     "timeMonth": 4135,
     "timeYear": 2615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 2
+    }
   },
   {
     "name": "Kundencenter / login.streampanel.net",
@@ -139,10 +144,10 @@
     "url": "$ENDPOINT_WEBHOSTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
@@ -150,17 +155,19 @@
     "timeWeek": 422,
     "timeMonth": 394,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "Centova Cast / Dedicated",
     "url": "$ENDPOINT_CENTOVA_DEFAULT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-dedicated",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 673,
@@ -169,6 +176,7 @@
     "timeMonth": 625,
     "timeYear": 672,
     "dailyMinutesDown": {
+      "2024-01-05": 1,
       "2023-10-13": 32,
       "2023-08-19": 322,
       "2023-02-12": 24
@@ -223,10 +231,10 @@
     "url": "$ENDPOINT_SAFEGUARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safeguard-webradio-and-webhosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
@@ -234,7 +242,9 @@
     "timeWeek": 681,
     "timeMonth": 609,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "Monitoring / Hilsboro",
@@ -301,9 +311,9 @@
     "url": "$ENDPOINT_MONITORING_NUERNBERG_EU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-nuernberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -313,6 +323,7 @@
     "timeMonth": 384,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2024-01-05": 0,
       "2023-11-12": 15
     }
   },
@@ -323,9 +334,9 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.31%",
     "time": 506,
     "timeDay": 1274,
@@ -333,7 +344,7 @@
     "timeMonth": 625,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-01-05": 47,
+      "2024-01-05": 39,
       "2024-01-04": 2,
       "2023-12-18": 275,
       "2023-12-17": 248,
