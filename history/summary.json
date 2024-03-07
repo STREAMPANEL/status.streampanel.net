@@ -4,10 +4,10 @@
     "url": "https://www.streampanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.streampanel.net.ico",
     "slug": "webseite-www-streampanel-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
@@ -16,6 +16,7 @@
     "timeMonth": 174,
     "timeYear": 307,
     "dailyMinutesDown": {
+      "2024-03-07": 1,
       "2023-10-02": 11
     }
   },
@@ -123,10 +124,10 @@
     "url": "https://login.streampanel.net",
     "icon": "https://icons.duckduckgo.com/ip3/login.streampanel.net.ico",
     "slug": "kundencenter-login-streampanel-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1397,
@@ -135,6 +136,7 @@
     "timeMonth": 1334,
     "timeYear": 1397,
     "dailyMinutesDown": {
+      "2024-03-07": 1,
       "2024-02-09": 26
     }
   },
@@ -143,10 +145,10 @@
     "url": "$ENDPOINT_WEBHOSTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
@@ -154,7 +156,9 @@
     "timeWeek": 369,
     "timeMonth": 390,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 1
+    }
   },
   {
     "name": "Centova Cast / Dedicated",
@@ -182,9 +186,9 @@
     "url": "$ENDPOINT_CENTOVA_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -194,6 +198,7 @@
     "timeMonth": 621,
     "timeYear": 643,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2023-11-08": 21,
       "2023-08-26": 529,
       "2023-05-28": 28
@@ -204,9 +209,9 @@
     "url": "$ENDPOINT_TEAMSPEAK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teamspeak-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -216,6 +221,7 @@
     "timeMonth": 397,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2024-01-07": 34,
       "2023-12-28": 40,
       "2023-07-09": 18,
@@ -227,9 +233,9 @@
     "url": "$ENDPOINT_SAFEGUARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safeguard-webradio-and-webhosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -238,16 +244,18 @@
     "timeWeek": 616,
     "timeMonth": 643,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Monitoring / Hilsboro",
     "url": "$ENDPOINT_MONITORING_HILSBORO_USA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-hilsboro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -257,6 +265,7 @@
     "timeMonth": 228,
     "timeYear": 216,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2023-11-12": 16
     }
   },
@@ -265,9 +274,9 @@
     "url": "$ENDPOINT_MONITORING_HELSINKI_EU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-helsinki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -277,6 +286,7 @@
     "timeMonth": 453,
     "timeYear": 444,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2023-11-12": 16
     }
   },
@@ -285,9 +295,9 @@
     "url": "$ENDPOINT_MONITORING_FALKENSTEIN_EU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-falkenstein",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -297,6 +307,7 @@
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2023-11-12": 16
     }
   },
@@ -305,9 +316,9 @@
     "url": "$ENDPOINT_MONITORING_NUERNBERG_EU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitoring-nuernberg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -317,6 +328,7 @@
     "timeMonth": 370,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2023-11-12": 15
     }
   },
@@ -326,18 +338,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "94.19%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.95%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "98.95%",
     "time": 1070,
-    "timeDay": 1125,
+    "timeDay": 1126,
     "timeWeek": 1127,
     "timeMonth": 1220,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2024-03-07": 48,
+      "2024-03-07": 39,
       "2024-03-06": 89,
       "2024-03-05": 21,
       "2024-03-04": 224,
