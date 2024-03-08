@@ -1,7 +1,7 @@
 url: https://loadbalancer.sp.radio.fm/
-status: up
-code: 200
-responseTime: 852
-lastUpdated: 2024-03-08T02:32:34.643Z
+status: down
+code: 404
+responseTime: 3815
+lastUpdated: 2024-03-08T04:38:27.742Z
 startTime: 2023-08-18T19:46:31.554Z
 generator: Upptime <https://github.com/upptime/upptime>
