@@ -68,9 +68,9 @@
     "slug": "webseite-www-webradiotop100-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2656,
     "timeDay": 5961,
@@ -78,8 +78,6 @@
     "timeMonth": 2643,
     "timeYear": 2656,
     "dailyMinutesDown": {
-      "2024-03-10": 0,
-      "2024-03-09": 8,
       "2024-03-07": 16,
       "2023-12-23": 16
     }
