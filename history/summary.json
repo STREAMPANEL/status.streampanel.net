@@ -88,10 +88,10 @@
     "url": "https://www.shoutcast-tools.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.de.ico",
     "slug": "webseite-www-shoutcast-tools-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1668,
@@ -99,7 +99,9 @@
     "timeWeek": 1663,
     "timeMonth": 1658,
     "timeYear": 1668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 1
+    }
   },
   {
     "name": "Webseite / www.shoutcast-tools.com",
@@ -342,17 +344,17 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "93.37%",
-    "uptimeMonth": "97.59%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "98.90%",
     "time": 1081,
-    "timeDay": 1164,
+    "timeDay": 1188,
     "timeWeek": 1155,
     "timeMonth": 1226,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2024-03-10": 31,
+      "2024-03-10": 22,
       "2024-03-09": 111,
       "2024-03-08": 18,
       "2024-03-07": 72,
