@@ -1,7 +1,7 @@
 url: $ENDPOINT_SAFEGUARD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-10T07:09:08.952Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2024-03-10T07:26:34.802Z
 startTime: 2022-12-28T12:31:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
