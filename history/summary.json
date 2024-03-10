@@ -66,11 +66,11 @@
     "url": "https://www.webradiotop100.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.webradiotop100.de.ico",
     "slug": "webseite-www-webradiotop100-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 2705,
     "timeDay": 6179,
@@ -78,7 +78,7 @@
     "timeMonth": 2950,
     "timeYear": 2705,
     "dailyMinutesDown": {
-      "2024-03-10": 26,
+      "2024-03-10": 27,
       "2024-03-07": 16,
       "2023-12-23": 16
     }
