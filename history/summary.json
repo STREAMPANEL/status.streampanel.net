@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.webradiotop100.de.ico",
     "slug": "webseite-www-webradiotop100-de",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
     "time": 2742,
     "timeDay": 6967,
     "timeWeek": 4089,
     "timeMonth": 3165,
     "timeYear": 2742,
     "dailyMinutesDown": {
-      "2024-03-10": 35,
+      "2024-03-10": 45,
       "2024-03-07": 16,
       "2023-12-23": 16
     }
@@ -88,10 +88,10 @@
     "url": "https://www.shoutcast-tools.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.de.ico",
     "slug": "webseite-www-shoutcast-tools-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1672,
@@ -100,7 +100,7 @@
     "timeMonth": 1690,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2024-03-10": 16
+      "2024-03-10": 17
     }
   },
   {
@@ -108,11 +108,11 @@
     "url": "https://www.shoutcast-tools.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.com.ico",
     "slug": "webseite-www-shoutcast-tools-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2764,
     "timeDay": 12098,
@@ -120,7 +120,7 @@
     "timeMonth": 3305,
     "timeYear": 2764,
     "dailyMinutesDown": {
-      "2024-03-10": 8,
+      "2024-03-10": 1,
       "2024-01-05": 15
     }
   },
@@ -239,11 +239,11 @@
     "url": "$ENDPOINT_SAFEGUARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safeguard-webradio-and-webhosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 684,
     "timeDay": 2955,
@@ -251,7 +251,7 @@
     "timeMonth": 778,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-03-10": 7,
+      "2024-03-10": 0,
       "2024-03-07": 59
     }
   },
@@ -346,9 +346,9 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "93.13%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "97.59%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "93.63%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "98.90%",
     "time": 1081,
     "timeDay": 1165,
@@ -356,7 +356,7 @@
     "timeMonth": 1225,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2024-03-10": 29,
+      "2024-03-10": 22,
       "2024-03-09": 111,
       "2024-03-08": 18,
       "2024-03-07": 72,
