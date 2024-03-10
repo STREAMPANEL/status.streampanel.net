@@ -66,11 +66,11 @@
     "url": "https://www.webradiotop100.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.webradiotop100.de.ico",
     "slug": "webseite-www-webradiotop100-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 2742,
     "timeDay": 6967,
@@ -78,7 +78,7 @@
     "timeMonth": 3165,
     "timeYear": 2742,
     "dailyMinutesDown": {
-      "2024-03-10": 26,
+      "2024-03-10": 28,
       "2024-03-07": 16,
       "2023-12-23": 16
     }
@@ -90,9 +90,9 @@
     "slug": "webseite-www-shoutcast-tools-de",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1668,
     "timeDay": 1430,
@@ -100,7 +100,7 @@
     "timeMonth": 1658,
     "timeYear": 1668,
     "dailyMinutesDown": {
-      "2024-03-10": 1
+      "2024-03-10": 9
     }
   },
   {
@@ -108,10 +108,10 @@
     "url": "https://www.shoutcast-tools.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.com.ico",
     "slug": "webseite-www-shoutcast-tools-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2668,
@@ -120,6 +120,7 @@
     "timeMonth": 2631,
     "timeYear": 2668,
     "dailyMinutesDown": {
+      "2024-03-10": 1,
       "2024-01-05": 15
     }
   },
@@ -238,9 +239,9 @@
     "url": "$ENDPOINT_SAFEGUARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safeguard-webradio-and-webhosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
@@ -250,6 +251,7 @@
     "timeMonth": 622,
     "timeYear": 668,
     "dailyMinutesDown": {
+      "2024-03-10": 0,
       "2024-03-07": 59
     }
   },
@@ -342,9 +344,9 @@
     "url": "https://loadbalancer.sp.radio.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "93.64%",
+    "uptimeDay": "93.62%",
     "uptimeWeek": "93.57%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "98.90%",
