@@ -76,7 +76,7 @@
     "time": 2758,
     "timeDay": 1956,
     "timeWeek": 2231,
-    "timeMonth": 3536,
+    "timeMonth": 3366,
     "timeYear": 2758,
     "dailyMinutesDown": {
       "2024-03-10": 99,
@@ -348,9 +348,9 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "85.88%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "94.74%",
     "uptimeYear": "99.32%",
     "time": 1114,
     "timeDay": 1131,
@@ -358,7 +358,7 @@
     "timeMonth": 1155,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2024-04-09": 212,
+      "2024-04-09": 204,
       "2024-04-08": 59,
       "2024-04-07": 117,
       "2024-04-06": 110,
@@ -370,7 +370,7 @@
       "2024-03-31": 284,
       "2024-03-30": 192,
       "2024-03-29": 48,
-      "2024-03-28": 21
+      "2024-03-28": 46
     }
   }
 ]
