@@ -91,9 +91,9 @@
     "slug": "webseite-www-shoutcast-tools-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1702,
     "timeDay": 1246,
@@ -101,7 +101,6 @@
     "timeMonth": 1647,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2024-04-21": 8,
       "2024-03-10": 34
     }
   },
@@ -112,9 +111,9 @@
     "slug": "webseite-www-shoutcast-tools-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 3119,
     "timeDay": 6463,
@@ -122,7 +121,6 @@
     "timeMonth": 5318,
     "timeYear": 3119,
     "dailyMinutesDown": {
-      "2024-04-21": 8,
       "2024-03-29": 33,
       "2024-03-10": 18,
       "2024-01-05": 15
@@ -348,18 +346,19 @@
     "url": "https://loadbalancer.sp.radio.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "97.20%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "98.28%",
     "uptimeWeek": "92.49%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "99.36%",
+    "uptimeMonth": "94.90%",
+    "uptimeYear": "99.37%",
     "time": 1121,
-    "timeDay": 1193,
+    "timeDay": 1298,
     "timeWeek": 1163,
     "timeMonth": 1158,
     "timeYear": 1121,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-20": 100,
       "2024-04-19": 156,
       "2024-04-18": 157,
@@ -377,7 +376,7 @@
       "2024-04-06": 110,
       "2024-04-05": 143,
       "2024-04-04": 180,
-      "2024-04-03": 262
+      "2024-04-03": 234
     }
   }
 ]
