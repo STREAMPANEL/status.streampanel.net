@@ -1,7 +1,7 @@
 url: $ENDPOINT_TEAMSPEAK
-status: down
-code: 502
-responseTime: 272
-lastUpdated: 2024-05-08T04:03:54.741Z
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2024-05-08T04:15:12.011Z
 startTime: 2022-12-28T12:31:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
