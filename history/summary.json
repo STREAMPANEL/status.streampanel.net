@@ -76,7 +76,7 @@
     "time": 2718,
     "timeDay": 2096,
     "timeWeek": 2878,
-    "timeMonth": 2605,
+    "timeMonth": 2617,
     "timeYear": 2718,
     "dailyMinutesDown": {
       "2024-05-09": 368,
@@ -99,7 +99,7 @@
     "time": 1752,
     "timeDay": 1351,
     "timeWeek": 3187,
-    "timeMonth": 2099,
+    "timeMonth": 2119,
     "timeYear": 1752,
     "dailyMinutesDown": {
       "2024-05-09": 368,
@@ -120,7 +120,7 @@
     "time": 3074,
     "timeDay": 1232,
     "timeWeek": 5591,
-    "timeMonth": 3264,
+    "timeMonth": 3317,
     "timeYear": 3074,
     "dailyMinutesDown": {
       "2024-05-09": 368,
@@ -143,7 +143,7 @@
     "time": 1359,
     "timeDay": 1092,
     "timeWeek": 1226,
-    "timeMonth": 1239,
+    "timeMonth": 1233,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2024-03-07": 60,
@@ -164,7 +164,7 @@
     "time": 467,
     "timeDay": 299,
     "timeWeek": 378,
-    "timeMonth": 400,
+    "timeMonth": 401,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2024-03-07": 60
@@ -228,7 +228,7 @@
     "time": 391,
     "timeDay": 318,
     "timeWeek": 346,
-    "timeMonth": 343,
+    "timeMonth": 347,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2024-03-07": 118,
@@ -251,7 +251,7 @@
     "time": 694,
     "timeDay": 612,
     "timeWeek": 589,
-    "timeMonth": 874,
+    "timeMonth": 888,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2024-03-10": 17,
@@ -347,19 +347,19 @@
     "url": "https://loadbalancer.sp.radio.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "92.68%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "96.43%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "99.25%",
     "time": 1187,
-    "timeDay": 1613,
+    "timeDay": 1646,
     "timeWeek": 1599,
     "timeMonth": 1513,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2024-06-08": 86,
+      "2024-06-08": 78,
       "2024-06-07": 42,
       "2024-06-06": 16,
       "2024-06-05": 22,
