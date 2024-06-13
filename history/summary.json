@@ -113,10 +113,10 @@
     "url": "https://www.shoutcast-tools.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.com.ico",
     "slug": "webseite-www-shoutcast-tools-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
     "time": 3099,
@@ -354,17 +354,17 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.26%",
     "time": 1198,
-    "timeDay": 1512,
-    "timeWeek": 1589,
-    "timeMonth": 1535,
+    "timeDay": 1627,
+    "timeWeek": 1596,
+    "timeMonth": 1533,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-06-13": 27,
+      "2024-06-13": 16,
       "2024-06-12": 38,
       "2024-06-11": 28,
       "2024-06-09": 28,
@@ -405,7 +405,7 @@
       "2024-04-12": 87,
       "2024-04-11": 72,
       "2024-04-10": 71,
-      "2024-04-09": 140
+      "2024-04-09": 182
     }
   }
 ]
