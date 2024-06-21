@@ -179,7 +179,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-dedicated",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -354,17 +354,17 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.27%",
     "time": 1212,
     "timeDay": 1913,
-    "timeWeek": 1626,
-    "timeMonth": 1570,
+    "timeWeek": 1610,
+    "timeMonth": 1573,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2024-06-20": 38,
+      "2024-06-20": 33,
       "2024-06-19": 17,
       "2024-06-18": 23,
       "2024-06-17": 82,
@@ -409,7 +409,8 @@
       "2024-04-14": 97,
       "2024-04-13": 137,
       "2024-04-12": 87,
-      "2024-04-11": 72
+      "2024-04-11": 72,
+      "2024-04-10": 17
     }
   }
 ]
