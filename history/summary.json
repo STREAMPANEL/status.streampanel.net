@@ -352,14 +352,14 @@
     "url": "https://loadbalancer.sp.radio.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "75.83%",
+    "uptimeDay": "76.33%",
     "uptimeWeek": "89.21%",
     "uptimeMonth": "96.03%",
     "uptimeYear": "99.25%",
     "time": 1228,
-    "timeDay": 1352,
+    "timeDay": 1360,
     "timeWeek": 1554,
     "timeMonth": 1562,
     "timeYear": 1228,
@@ -407,7 +407,7 @@
       "2024-04-24": 16,
       "2024-04-23": 28,
       "2024-04-20": 100,
-      "2024-04-19": 135
+      "2024-04-19": 119
     }
   }
 ]
