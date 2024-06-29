@@ -67,9 +67,9 @@
     "url": "https://www.webradiotop100.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.webradiotop100.de.ico",
     "slug": "webseite-www-webradiotop100-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.88%",
@@ -79,6 +79,7 @@
     "timeMonth": 2840,
     "timeYear": 2707,
     "dailyMinutesDown": {
+      "2024-06-29": 0,
       "2024-06-13": 32,
       "2024-05-09": 368,
       "2024-03-10": 99,
@@ -354,17 +355,17 @@
     "slug": "sp-cast-loadbalancer",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "71.36%",
-    "uptimeWeek": "81.61%",
-    "uptimeMonth": "94.69%",
+    "uptimeDay": "71.92%",
+    "uptimeWeek": "81.69%",
+    "uptimeMonth": "94.67%",
     "uptimeYear": "99.49%",
     "time": 1241,
-    "timeDay": 1625,
+    "timeDay": 1654,
     "timeWeek": 1529,
     "timeMonth": 1558,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2024-06-29": 159,
+      "2024-06-29": 151,
       "2024-06-28": 334,
       "2024-06-27": 275,
       "2024-06-26": 363,
@@ -378,7 +379,8 @@
       "2024-06-18": 23,
       "2024-06-17": 82,
       "2024-06-15": 76,
-      "2024-06-14": 22
+      "2024-06-14": 22,
+      "2024-06-13": 16
     }
   }
 ]
