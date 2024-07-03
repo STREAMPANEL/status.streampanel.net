@@ -1,7 +1,7 @@
 url: $ENDPOINT_MONITORING_HELSINKI_EU
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-03T15:25:40.943Z
+status: up
+code: 403
+responseTime: 569
+lastUpdated: 2024-07-03T15:34:18.696Z
 startTime: 2023-11-11T23:32:14.669Z
 generator: Upptime <https://github.com/upptime/upptime>
