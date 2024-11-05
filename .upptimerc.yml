@@ -25,7 +25,7 @@ sites:
     url: $ENDPOINT_CENTOVA_CLOUD
   - name: Teamspeak 3 
     url: $ENDPOINT_TEAMSPEAK
-  - name: SPCast: Loadbalancer
+  - name: SPCast Loadbalancer
     url: https://loadbalancer.sp.radio.fm/check_is_online.txt
       
 status-website:
