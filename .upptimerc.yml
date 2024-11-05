@@ -27,22 +27,6 @@ sites:
     url: $ENDPOINT_TEAMSPEAK
   - name: SPCast: Loadbalancer
     url: https://loadbalancer.sp.radio.fm/check_is_online.txt
-  - name: Monitoring / Hilsboro
-    url: $ENDPOINT_MONITORING_HILSBORO_USA
-    expectedStatusCodes:
-      - 403
-  - name: Monitoring / Helsinki 
-    url: $ENDPOINT_MONITORING_HELSINKI_EU
-    expectedStatusCodes:
-      - 403
-  - name: Monitoring / Falkenstein
-    url: $ENDPOINT_MONITORING_FALKENSTEIN_EU
-    expectedStatusCodes:
-      - 403
-  - name: Monitoring / Nürnberg
-    url: $ENDPOINT_MONITORING_NUERNBERG_EU
-    expectedStatusCodes:
-      - 403
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
