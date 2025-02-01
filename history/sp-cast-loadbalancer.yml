@@ -1,7 +1,7 @@
 url: https://loadbalancer.sp.radio.fm/check_is_online.txt
 status: up
 code: 200
-responseTime: 833
-lastUpdated: 2025-01-31T23:06:49.702Z
+responseTime: 634
+lastUpdated: 2025-02-01T23:07:08.170Z
 startTime: 2023-08-18T19:46:31.554Z
 generator: Upptime <https://github.com/upptime/upptime>
