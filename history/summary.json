@@ -22,9 +22,9 @@
     "url": "https://www.spcast.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.spcast.eu.ico",
     "slug": "spcast-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 243,
     "timeMonth": 185,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "spradio.eu",
@@ -237,7 +239,7 @@
     "timeDay": 936,
     "timeWeek": 780,
     "timeMonth": 789,
-    "timeYear": 1378,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2024-12-16": 21,
       "2024-11-17": 66,
