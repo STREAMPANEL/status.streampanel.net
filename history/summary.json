@@ -43,19 +43,19 @@
     "url": "https://www.spradio.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.spradio.eu.ico",
     "slug": "spradio-eu",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.92%",
-    "time": 484,
-    "timeDay": 113,
-    "timeWeek": 120,
-    "timeMonth": 151,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.91%",
+    "time": 482,
+    "timeDay": 134,
+    "timeWeek": 132,
+    "timeMonth": 155,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-02-21": 120
+      "2025-02-21": 144
     }
   },
   {
