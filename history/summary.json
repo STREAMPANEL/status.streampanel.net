@@ -76,7 +76,7 @@
     "timeDay": 2771,
     "timeWeek": 3211,
     "timeMonth": 3630,
-    "timeYear": 2941,
+    "timeYear": 2916,
     "dailyMinutesDown": {
       "2024-06-13": 32,
       "2024-05-09": 368
@@ -188,18 +188,19 @@
     "url": "$ENDPOINT_CENTOVA_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
+    "time": 641,
     "timeDay": 569,
     "timeWeek": 671,
     "timeMonth": 685,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2025-03-10": 0,
       "2024-12-08": 24
     }
   },
