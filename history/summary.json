@@ -35,7 +35,7 @@
     "time": 521,
     "timeDay": 110,
     "timeWeek": 153,
-    "timeMonth": 156,
+    "timeMonth": 158,
     "timeYear": 521,
     "dailyMinutesDown": {}
   },
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spradio.eu.ico",
     "slug": "spradio-eu",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 614,
     "timeDay": 161,
     "timeWeek": 642,
@@ -229,18 +229,19 @@
     "url": "https://loadbalancer.sp.radio.fm/check_is_online.txt",
     "icon": "https://icons.duckduckgo.com/ip3/loadbalancer.sp.radio.fm.ico",
     "slug": "sp-cast-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.97%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.37%",
-    "time": 1390,
+    "time": 1392,
     "timeDay": 1176,
     "timeWeek": 816,
     "timeMonth": 777,
-    "timeYear": 1396,
+    "timeYear": 1397,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2025-03-06": 406,
       "2024-12-16": 21,
       "2024-11-17": 66,
@@ -251,7 +252,7 @@
       "2024-07-19": 493,
       "2024-07-18": 406,
       "2024-07-17": 545,
-      "2024-07-16": 102
+      "2024-07-16": 86
     }
   }
 ]
