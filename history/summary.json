@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spradio.eu.ico",
     "slug": "spradio-eu",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 592,
     "timeDay": 153,
     "timeWeek": 149,
@@ -105,9 +105,9 @@
     "url": "https://www.shoutcast-tools.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.com.ico",
     "slug": "shoutcast-tools-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -117,6 +117,7 @@
     "timeMonth": 1392,
     "timeYear": 2340,
     "dailyMinutesDown": {
+      "2025-03-26": 0,
       "2024-12-10": 15,
       "2024-12-05": 28
     }
@@ -239,7 +240,7 @@
     "timeDay": 527,
     "timeWeek": 667,
     "timeMonth": 751,
-    "timeYear": 1420,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2025-03-13": 412,
       "2025-03-06": 406,
