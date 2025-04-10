@@ -105,9 +105,9 @@
     "url": "https://www.shoutcast-tools.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoutcast-tools.com.ico",
     "slug": "shoutcast-tools-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.95%",
@@ -117,6 +117,7 @@
     "timeMonth": 2890,
     "timeYear": 2551,
     "dailyMinutesDown": {
+      "2025-04-10": 0,
       "2025-04-08": 15,
       "2025-03-26": 56,
       "2024-12-10": 15,
@@ -199,7 +200,7 @@
     "time": 642,
     "timeDay": 599,
     "timeWeek": 607,
-    "timeMonth": 634,
+    "timeMonth": 635,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2024-12-08": 24
@@ -241,7 +242,7 @@
     "timeDay": 580,
     "timeWeek": 594,
     "timeMonth": 630,
-    "timeYear": 1467,
+    "timeYear": 1470,
     "dailyMinutesDown": {
       "2025-03-13": 412,
       "2025-03-06": 406,
