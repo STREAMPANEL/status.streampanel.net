@@ -45,9 +45,9 @@
     "url": "https://www.spradio.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.spradio.eu.ico",
     "slug": "spradio-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
@@ -57,6 +57,7 @@
     "timeMonth": 199,
     "timeYear": 530,
     "dailyMinutesDown": {
+      "2025-04-27": 0,
       "2025-02-23": 299,
       "2025-02-22": 446,
       "2025-02-21": 195
@@ -245,7 +246,7 @@
     "timeDay": 751,
     "timeWeek": 747,
     "timeMonth": 601,
-    "timeYear": 1511,
+    "timeYear": 1510,
     "dailyMinutesDown": {
       "2025-03-13": 412,
       "2025-03-06": 406,
