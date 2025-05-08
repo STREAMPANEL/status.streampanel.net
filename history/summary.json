@@ -80,7 +80,7 @@
     "timeDay": 7698,
     "timeWeek": 4893,
     "timeMonth": 5070,
-    "timeYear": 3365,
+    "timeYear": 3374,
     "dailyMinutesDown": {
       "2025-04-28": 25,
       "2025-04-27": 50,
@@ -172,7 +172,7 @@
     "timeDay": 385,
     "timeWeek": 437,
     "timeMonth": 433,
-    "timeYear": 424,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2025-04-28": 26
     }
@@ -182,9 +182,9 @@
     "url": "$ENDPOINT_CENTOVA_DEFAULT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "centova-cast-dedicated",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -194,6 +194,7 @@
     "timeMonth": 672,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2025-05-08": 0,
       "2025-02-07": 131,
       "2024-11-11": 16,
       "2024-11-09": 15
@@ -234,7 +235,7 @@
     "timeDay": 295,
     "timeWeek": 384,
     "timeMonth": 843,
-    "timeYear": 464,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-04-28": 25,
       "2025-01-28": 258,
