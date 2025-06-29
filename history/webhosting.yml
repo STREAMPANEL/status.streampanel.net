@@ -1,7 +1,7 @@
 url: $ENDPOINT_WEBHOSTING
-status: down
-code: 415
-responseTime: 384
-lastUpdated: 2025-06-29T14:06:49.120Z
+status: up
+code: 200
+responseTime: 388
+lastUpdated: 2025-06-29T14:17:52.142Z
 startTime: 2022-12-28T12:31:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
